@@ -8,4 +8,4 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@arvind625)
 
 - :notebook_with_decorative_cover: My leetcode [Profile](https://leetcode.com/arvind420/)
-
+- :green_book: My linkedin [Profile](https://www.linkedin.com/in/arvinddhakar/)

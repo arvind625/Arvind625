@@ -6,9 +6,9 @@
 
 
 
-- :office: I'm currently working at **Delixus Inc**
+<!-- - :office: I'm currently working at **Delixus Inc** -->
 - 🔭 I've 3+ experience in **Fullstack Development** and having expertise in **Reactjs, Nodejs, HTML, CSS, Postgresql, Mongodb, Redux**
-- 📝 I regularly write articles on [Medium](https://medium.com/@arvind625)
+- 📝 I occasionally write articles on [Medium](https://medium.com/@arvind625)
 
 - :notebook_with_decorative_cover: My leetcode [Profile](https://leetcode.com/arvind420/)
 - :green_book: My linkedin [Profile](https://www.linkedin.com/in/arvinddhakar/)
